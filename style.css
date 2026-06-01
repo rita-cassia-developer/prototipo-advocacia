@@ -34,7 +34,6 @@ a:focus {
     outline-offset: 4px;
 }
 
-/* --- HEADER --- */
 .main-header {
     background-color: var(--bg-dark);
     padding: 25px 0;
@@ -136,7 +135,7 @@ a:focus {
     margin-bottom: 40px;
 }
 
-.topp {
+.hero-img {
     display: block;
     width: 100%;
     max-width: 480px;
